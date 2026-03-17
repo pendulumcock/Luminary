@@ -33,8 +33,8 @@
 
 <style scoped>
 	.avatar {
-		width: 24px;
-		height: 24px;
+		width: 50px;
+		height: 50ppx;
 		margin-right: 8px;
 	}
 </style>

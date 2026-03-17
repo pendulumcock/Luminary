@@ -1,8 +1,7 @@
-# Ampersand
+# Luminary
 
-Welcome to Ampersand.
+Welcome to Luminary (Ampersand copy).
 
-[![Liberapay patrons](https://img.shields.io/liberapay/patrons/Ampersand)](https://liberapay.com/Ampersand)
 ![Android Build Status](https://img.shields.io/github/actions/workflow/status/NyaomiDEV/Ampersand/build-android.yml?style=flat&label=android%20build)
 ![iOS Build Status](https://img.shields.io/github/actions/workflow/status/NyaomiDEV/Ampersand/build-ios.yml?style=flat&label=ios%20build)
 
@@ -15,29 +14,17 @@ Welcome to Ampersand.
 
 ## What is Ampersand?
 
-Ampersand is a research project, and also an app. It wants to do one thing and do it reasonably well: tracking and journaling for plural systems.
+Tracking web/app for friends :3
 
-## Wait, why would anyone reinvent the wheel?
+## Why would we need another app?
 
-Because all other approaches up until now are cloud based. We need at least one app that can be used fully offline, and that is developed with an offline-first mindset.
+Because all other the other apps keep getting deleted 😭
 
-## So, is this for privacy reasons?
+## Can this be used yet?
 
-It is not. It's just because it's unreasonable that other apps and services out here do require an account somewhere to work, and while some do offer an "offline mode", they still require online signup. What if one wants their data to live and die on their phone/tablet/desktop/laptop?
+No idk how to even see ts outside of code plus im just straightup tweaking ampersand
 
-But if you want to think of it on those terms, sure, having an offline app could also mean privacy.
-
-## Is Ampersand something I can use on a day-to-day basis?
-
-Ampersand is NOT something you can use on a day-to-day basis. Or at least, not yet.
-
-Do not expect stability from an application still in its infancy.
-
-Currently Ampersand performs poorly for systems with a large number of members, tags or custom fields; therefore, if you're a polyfragmented system, please stick with more stable alternatives until we solve all the issues contributing to this instability.
-
-Other than this, Ampersand is still to be considered alpha software, meaning it still has a long ways to go.
-
-## What is Ampersand compatible with?
+## What is ts compatible with?
 
 The Android app is compatible with:
 Android >= 8, provided Android System WebView is installed and used (check developer settings if unsure) and at least version >= 131
@@ -57,8 +44,8 @@ The PC version is compatible with:
   - MacBook Pro 13 inches, (M1) late 2020 or later
   - MacBook Air, (M1) late 2020 or later
 
-## Where can I get Ampersand?
-
+## Where can I get Luminary?
+Nowhere but you can get Ampersand:
 We'd kindly advise you to install Ampersand outside of Google Play, given the nature of some legislations across the world that could take us the right to publishing there away.
 
 
@@ -73,11 +60,11 @@ Finally, and again please try to not be lazy about this, you can download it thr
 
 ## Can I contribute code?
 
-Of course you can! And if you're not able to contribute code, you can still hang around, translate the app and brainstorm ideas!
+Pls pls pls pls idfk what I'm doing pls
 
 ## Can I fund you?
 
-We'd be very glad to receive funds, and we've set [Liberapay](https://liberapay.com/Ampersand/) to collect them. Please donate!
+No
 
 ## License
 
